@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prince Prajapati 
 - 👀 I’m interested in Flutter development 
-- 🌱 I’m currently flutter 
+- 🌱 I’m currently learning flutter 
 - 💞️ I’m looking to collaborate on flutter project 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
